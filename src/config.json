@@ -1,0 +1,41 @@
+{
+  "token": "",
+  "statusConfig": {
+    "messages": [
+      {
+        "text": "Loops",
+        "emoji": {
+          "custom": true,
+          "name": "Loops",
+          "id": "1234944309804011602"
+        }
+      },
+      {
+        "text": "is",
+        "emoji": {
+          "custom": false,
+          "name": "👋",
+          "id": ""
+        }
+      },
+      {
+        "text": "on",
+        "emoji": {
+          "custom": false,
+          "name": "🔥",
+          "id": ""
+        }
+      },
+      {
+        "text": "top",
+        "emoji": {
+          "custom": false,
+          "name": "",
+          "id": ""
+        }
+      }
+    ],
+    "interval": 5000,
+    "clearAfter": false
+  }
+} 

@@ -1,0 +1,20 @@
+{
+  "name": "status-rotator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.13.1",
+    "discord.js-selfbot-v13": "^3.5.1",
+    "typescript": "^5.7.3"
+  }
+}
